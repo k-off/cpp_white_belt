@@ -151,12 +151,17 @@
     <ClCompile Include="division.cpp" />
     <ClCompile Include="equation.cpp" />
     <ClCompile Include="Factorial.cpp" />
+    <ClCompile Include="Incognizable.cpp" />
     <ClCompile Include="IsPalindrom.cpp" />
+    <ClCompile Include="LectureTitle.cpp" />
     <ClCompile Include="MonthlyRoutines.cpp" />
     <ClCompile Include="MoveStrings.cpp" />
     <ClCompile Include="Names1.cpp" />
+    <ClCompile Include="Names2.cpp" />
+    <ClCompile Include="Names3.cpp" />
     <ClCompile Include="Reverse.cpp" />
     <ClCompile Include="Reversed.cpp" />
+    <ClCompile Include="ReversibleString.cpp" />
     <ClCompile Include="SortAbs.cpp" />
     <ClCompile Include="SortCaseInsensitive.cpp" />
     <ClCompile Include="SortedStrings.cpp" />
